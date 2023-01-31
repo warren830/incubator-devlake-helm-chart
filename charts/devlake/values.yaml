@@ -128,7 +128,7 @@ grafana:
 lake:
   image:
     repository: apache/devlake
-    tag: v0.15.0-rc4
+    tag: v0.15.0-rc3
     pullPolicy: Always
   # storage for config
   storage:
