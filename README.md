@@ -22,7 +22,7 @@
 Thanks to @matrixji who initiated all content in `apache/incubator-devlake`, this repo is copied from directory deployment/helm in repo `apache/incubator-devlake`! Also thanks to @lshmouse, @shubham-cmyk and @SnowMoon-Dev for the contribution for devlake helm deployment.
 
 ## Install
-
+Test
 To install the chart with release name `devlake`:
 
 ```shell
